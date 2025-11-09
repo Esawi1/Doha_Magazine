@@ -1,0 +1,324 @@
+
+================================================================================
+Timestamp: 2025-10-15 07:26:16 UTC
+Session ID: e477d3cc-0634-4f37-8e89-3b41ea5c2116
+Question: تكلم عن الشعر العربي
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: اهلا بك تكلم عن الشعر العربي
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-10-15 09:55:02 UTC
+Session ID: a9f0fcd7-cb32-4b98-88e3-4cb49def1727
+Question: ما آخر المقالات عن الثقافة
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: ما آخر المقالات عن الثقافة
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-10-15 10:01:53 UTC
+Session ID: 5029b8fb-3982-4edb-97e4-aba70d5fe046
+Question: ما آخر المقالات عن الثقافة
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: ما آخر المقالات عن الثقافة
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-10-15 10:08:21 UTC
+Session ID: d1369839-8585-4917-a439-e603cbaac0b6
+Question: ما آخر المقالات عن الثقافة
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: ما آخر المقالات عن الثقافة
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-10-15 10:20:41 UTC
+Session ID: a337a922-aa6c-4f5e-b4c3-411971aeb5f5
+Question: ما آخر المقالات عن الثقافة
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: ما آخر المقالات عن الثقافة
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-10-15 10:30:15 UTC
+Session ID: 1f5c246e-deeb-48e6-9535-0bba9eabb205
+Question: المُثقّف الحُرّ ضمير المُجتمع
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: حكاية الكائن (إكس) – مجلة الدوحة البحث عن: بحث الرئيسية عن المجلة أرشيف المجلة كتاب الدوحة إصدارات وزارة الثقافة اتصل بنا المحتوى تقارير وقضايا حوارات ملفات مقالات أدب ترجمات زوايا البحث عن: بحث حكاية الكائن (إكس) عبد الرحمن عباس يوسف | 17 مارس 2021 | 887 أخيراً، هأنذا أتنَعَّمُ بالطمأنينة، فالأرض تحتي هادئة كما لم تكن قبل آلاف السنوات، والسماء فوقي صافيةٌ لأوّل مرَّة منذ زمن بعيد، وباردةٌ كما ينبغي… المُثقّف الحُرّ ضمير المُجتمع
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-10-15 10:31:20 UTC
+Session ID: 1f5c246e-deeb-48e6-9535-0bba9eabb205
+Question: البطيئون في مواجهة الحداثة
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: تغريبةُ الإنسان المحتار – مجلة الدوحة البحث عن: بحث الرئيسية عن المجلة أرشيف المجلة كتاب الدوحة إصدارات وزارة الثقافة اتصل بنا المحتوى تقارير وقضايا حوارات ملفات مقالات أدب ترجمات زوايا البحث عن: بحث تغريبةُ الإنسان المحتار آدم فتحي | 06 نوفمبر 2020 | 1٬062 ليس من شكٍّ في أنّ ثلاثةَ أرباع حياتنا انتظار. أمّا الربع الباقي فلعلّه مُوزّعٌ بين الاستسلامِ للانتظار والاستعدادِ لهُ والضِّيقِ بهِ ومساءلةِ الإنسان نفسَهُ في المرآة:… البطيئون في مواجهة الحداثة
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-10-15 10:54:33 UTC
+Session ID: 3c8ecb40-a4b8-4e4f-b4ad-62cdf4dc6bd3
+Question: نقَّاد يوتيوب.. «صديق الأفلام» المُتهم بإفساد النقد السينمائيّ
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: نقَّاد يوتيوب.. «صديق الأفلام» المُتهم بإفساد النقد السينمائيّ
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-10-25 16:47:38 UTC
+Session ID: 5e93c605-2266-41ed-be3f-75bfdddc9061
+Question: ما آخر المقالات عن الثقافة
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: ما آخر المقالات عن الثقافة
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-10-30 10:40:10 UTC
+Session ID: 1d86c438-7156-49a0-b2d3-af833af90193
+Question: ما آخر المقالات عن الثقافة
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: ما آخر المقالات عن الثقافة
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-10-30 11:05:47 UTC
+Session ID: e9d98e71-9c65-4af2-ab97-8bb2eeb322ee
+Question: ما آخر المقالات عن الثقافة
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: ما آخر المقالات عن الثقافة
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-10-30 13:27:13 UTC
+Session ID: f94e9e2e-7aa1-41ac-b993-ec3143396a72
+Question: ما هي أخر المقالات؟
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: اهلا بك ما هي أخر المقالات؟
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-11-03 12:19:00 UTC
+Session ID: 49ffa989-5af0-49d4-830c-0817ecda22ab
+Question: اهلا بك
+Reason: low_score
+Metadata:
+  - avg_score: 0.0157685826998204
+  - retrieval_count: 8
+  - enhanced_query: اهلا بك
+  - has_sources: True
+  - search_error: None
+  - is_related: True
+  - llm_says_cant_answer: False
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-11-03 12:20:07 UTC
+Session ID: 49ffa989-5af0-49d4-830c-0817ecda22ab
+Question: تكلم عن الادب
+Reason: low_score
+Metadata:
+  - avg_score: 0.02918164595030248
+  - retrieval_count: 8
+  - enhanced_query: اهلا بك تكلم عن الادب
+  - has_sources: True
+  - search_error: None
+  - is_related: True
+  - llm_says_cant_answer: False
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-11-03 12:26:38 UTC
+Session ID: 43bf348c-e564-4030-9631-532ecdacd141
+Question: اهلا بك
+Reason: low_score
+Metadata:
+  - avg_score: 0.0157685826998204
+  - retrieval_count: 8
+  - enhanced_query: اهلا بك
+  - has_sources: True
+  - search_error: None
+  - is_related: True
+  - llm_says_cant_answer: False
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-11-03 12:26:57 UTC
+Session ID: 43bf348c-e564-4030-9631-532ecdacd141
+Question: ما آخر المقالات عن الثقافة
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: ما آخر المقالات عن الثقافة
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+  - llm_says_cant_answer: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-11-03 12:30:37 UTC
+Session ID: 0efbe8d8-7616-456c-9ecd-3f793c20df3a
+Question: اهلا بك
+Reason: low_score
+Metadata:
+  - avg_score: 0.0157685826998204
+  - retrieval_count: 8
+  - enhanced_query: اهلا بك
+  - has_sources: True
+  - search_error: None
+  - is_related: True
+  - llm_says_cant_answer: False
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-11-03 12:30:56 UTC
+Session ID: 0efbe8d8-7616-456c-9ecd-3f793c20df3a
+Question: تكلم عن الادب
+Reason: low_score
+Metadata:
+  - avg_score: 0.02918164595030248
+  - retrieval_count: 8
+  - enhanced_query: اهلا بك تكلم عن الادب
+  - has_sources: True
+  - search_error: None
+  - is_related: True
+  - llm_says_cant_answer: False
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-11-03 12:31:13 UTC
+Session ID: 0efbe8d8-7616-456c-9ecd-3f793c20df3a
+Question: ما آخر المقالات عن الثقافة
+Reason: low_score
+Metadata:
+  - avg_score: 0.028858914971351624
+  - retrieval_count: 8
+  - enhanced_query: ما آخر المقالات عن الثقافة
+  - has_sources: True
+  - search_error: None
+  - is_related: True
+  - llm_says_cant_answer: False
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-11-03 12:32:46 UTC
+Session ID: 0efbe8d8-7616-456c-9ecd-3f793c20df3a
+Question: "ما هي أحدث المقالات المنشورة هذا الشهر؟"
+Reason: low_score
+Metadata:
+  - avg_score: 0.023793434025719762
+  - retrieval_count: 8
+  - enhanced_query: اهلا بك "ما هي أحدث المقالات المنشورة هذا الشهر؟"
+  - has_sources: True
+  - search_error: None
+  - is_related: True
+  - llm_says_cant_answer: True
+================================================================================
+
+
+================================================================================
+Timestamp: 2025-11-03 13:09:04 UTC
+Session ID: 593f4acb-8a5f-4c0e-b382-72cc7ee7d7d8
+Question: "هل هناك مقالات جديدة عن الشعر العربي المعاصر؟"
+Reason: no_results
+Metadata:
+  - avg_score: 0
+  - retrieval_count: 0
+  - enhanced_query: "هل هناك مقالات جديدة عن الشعر العربي المعاصر؟"
+  - has_sources: False
+  - search_error: None
+  - is_related: True
+  - llm_says_cant_answer: True
+================================================================================
+
